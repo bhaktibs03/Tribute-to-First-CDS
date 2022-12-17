@@ -1,0 +1,40 @@
+
+
+body {
+    background-color: #c6ddc1;
+  }
+  h1 {
+    text-align: center;
+    color: hsl(140, 44%, 38%);
+  }
+  #page-wrapper {
+    width: 90%;
+    margin-left:5%;
+    padding: 2px 0px;
+    border:solid 1px;
+    background-color: #a4a7c4;
+  }
+  img {
+    width: 35%;
+    border-radius:55px;
+  }
+  p {
+    text-align: left;
+      word-spacing: 5px;
+      letter-spacing: 2px;
+      font-size: 18px;
+      line-height: 2.3;
+      font-family: Times New Roman;
+  }
+  .info-paras {
+    width: 80%;
+    padding:5%;
+    border:solid 1px;
+    border-radius:5%;
+    margin-left: 5%;
+    background-color: #887397;
+  }
+  .footer p{
+    text-align:right;
+    margin-right: 10%;
+  } 
